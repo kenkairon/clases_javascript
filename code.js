@@ -1,4 +1,3 @@
-
 const box = document.getElementById('box');
 function changeColor() {
     const r = Math.floor(Math.random() * 256);
