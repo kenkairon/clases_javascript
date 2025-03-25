@@ -42,6 +42,7 @@ Educativo y de Aprendizaje Personal
         background: red;
     }
 # JAVASCRIP
+3. JAVASCRIP
     ```bash 
     const box = document.getElementById('box');
     function changeColor() {
